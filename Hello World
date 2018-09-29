@@ -1,3 +1,4 @@
+;Hello World
 DATA SEGMENT
 	MSG DB "HELLO WORLD!","$" ;Declaring
 DATA ENDS

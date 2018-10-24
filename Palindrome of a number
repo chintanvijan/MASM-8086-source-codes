@@ -1,3 +1,4 @@
+;Palindrome of a number
 DATA SEGMENT
 	A DW 0FFFFH
 	MSG1 DB 10,13,'PALINDROME!$'

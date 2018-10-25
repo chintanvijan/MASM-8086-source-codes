@@ -1,3 +1,4 @@
+;Factorial
 DATA SEGMENT
 	A DB 05H
 	B DW ?
